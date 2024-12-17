@@ -1,0 +1,91 @@
+/*#programming {
+    color: 	#000000;
+}
+
+#blockchain {
+    color: #1A1A1A;
+}
+
+#indie-hacking {
+    color: #333333;
+}
+
+#making-your-first-million {
+    color: #4D4D4D;
+}
+
+#fintech {
+    color: #666666;
+}
+
+#ai {
+    color: #808080;
+}
+
+#renewable-energy {
+    color: #999999;
+}
+
+#five-g-technology {
+    color: #B3B3B3;
+}
+
+#e-commerce {
+    color: #CCCCCC;
+}
+
+#work {
+    color: #E6E6E6;
+} */
+
+/*let's try something with classes here */
+/*.first {
+    color: red;
+}
+
+.second {
+    color: orangered;
+}
+
+.third {
+    color: blueviolet;
+}  */
+
+html {
+    font-size: 10px;
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #E6E6E6;
+    margin: 20px auto; 
+    padding: 10px;
+    text-align: left;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+    max-width: 800px;
+    color: #333333;
+    /*border: 5px solid black;*/
+}
+
+@media (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+img {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
